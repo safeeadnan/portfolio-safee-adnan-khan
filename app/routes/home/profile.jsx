@@ -21,7 +21,7 @@ const ProfileText = ({ visible, titleId }) => (
       <DecoderText text="Hello there!" start={visible} delay={500} />
     </Heading>
     <Text className={styles.description} data-visible={visible} size="l" as="p">
-      I’m Safee, a Full-Stack Developer based in Amravati, currently bringing innovative ideas
+      I’m Safee, a Full-Stack Developer based in Pune, currently bringing innovative ideas
       to life as an Associate Software Engineer at Cognizant. My specialty is crafting efficient,
       user-friendly applications with React and Spring Boot.
     </Text>

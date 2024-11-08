@@ -103,8 +103,8 @@ export const Home = () => {
         sectionRef={projectOne}
         visible={visibleSections.includes(projectOne.current)}
         index={1}
-        title="Designing the future of education"
-        description="Designing a platform to help educators build better online courseware"
+        title="Library Management System"
+        description="A full-stack system with real-time search, user role management, and secure data access, deployed on AWS"
         buttonText="View project"
         buttonLink="/projects/smart-sparrow"
         model={{
@@ -124,8 +124,8 @@ export const Home = () => {
         sectionRef={projectTwo}
         visible={visibleSections.includes(projectTwo.current)}
         index={2}
-        title="Video game progress tracking"
-        description="Design and development for a video game tracking app built in React Native"
+        title="Social Media App"
+        description="A dynamic application with user profiles, friend connections, and real-time feed updates, built with React and MongoDB."
         buttonText="View website"
         buttonLink="https://gamestack.hamishw.com"
         model={{
@@ -148,8 +148,8 @@ export const Home = () => {
         sectionRef={projectThree}
         visible={visibleSections.includes(projectThree.current)}
         index={3}
-        title="Biomedical image collaboration"
-        description="Increasing the amount of collaboration in Slice, an app for biomedical imaging"
+        title="E-commerce Platform"
+        description="A scalable platform with integrated payment and cart management, developed using Spring Boot, React, and MySQL"
         buttonText="View project"
         buttonLink="/projects/slice"
         model={{

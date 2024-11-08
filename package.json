@@ -1,9 +1,9 @@
 {
   "name": "portfolio",
-  "homepage": "https://hamishw.com",
-  "description": "Portfolio site for Hamish Williams",
-  "repository": "https://github.com/HamishMW/portfolio.git",
-  "author": "Hamish Williams",
+  "homepage": "",
+  "description": "A personal portfolio showcasing projects in React, Spring Boot, and cloud deployments.",
+  "repository": "https://github.com/safeeadnan/portfolio-safee-adnan-khan.git",
+  "author": "Safee Adnan Khan",
   "sideEffects": false,
   "type": "module",
   "scripts": {
